@@ -1,4 +1,4 @@
-class TikiSekker < Formula
+class Tikiseller < Formula
   desc "A command line tool for tiki seller"
   homepage "https://github.com/nlgtuankiet/tiki-seller-cli"
   url "https://github.com/nlgtuankiet/tiki-seller-cli/releases/download/1.1/tikiseller.zip"
