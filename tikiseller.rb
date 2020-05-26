@@ -1,9 +1,9 @@
 class Tikiseller < Formula
   desc "A command line tool for tiki seller"
   homepage "https://github.com/nlgtuankiet/tiki-seller-cli"
-  url "https://github.com/nlgtuankiet/tiki-seller-cli/releases/download/1.2/tikiseller.zip"
-  sha256 "0029f17d92fc5c4ac7ec87ad6fe2d23e6e57fff8643e3fb74e6272b771bcc0dc"
-  version "1.2.0"
+  url "https://github.com/nlgtuankiet/tiki-seller-cli/releases/download/1.3/tikiseller.zip"
+  sha256 "8a9a5dabcc848e5a58ab9a65542cb7bbd1ea4de76c060ece9913898152f89941"
+  version "1.3.0"
 
   depends_on "ffmpeg"
   depends_on "java"
